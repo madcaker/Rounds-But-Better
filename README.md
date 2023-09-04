@@ -1,4 +1,4 @@
-# Everything that rounds should have been in the first place.
+# Everything that vanilla rounds should have been.
 This pack mainly focuses providing patches, quality of life improvements, and the ability to customize pretty much anything and everything.
 
 #### Overall just a much better rounds experience.
